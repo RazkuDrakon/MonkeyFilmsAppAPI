@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">U4_MonkeyFilmApp2</string>
+    <string name="app_title">MonkeyFilm App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_up_question">Do not have an account yet?</string>
+    <string name="sign_up">SignUp.</string>
+    <string name="log_in">Enter</string>
+    <string name="logo">Logo</string>
+    <string name="close_app">Close APP</string>
+    <string name="show_password">Show password</string>
+</resources>
